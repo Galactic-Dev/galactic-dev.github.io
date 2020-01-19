@@ -1,0 +1,14 @@
+Package: com.galacticdev.bigytminiplayer
+Name: BigYTMiniPlayer
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Makes the YouTube miniplayer eaiser to see
+Maintainer: Galactic Dev <devgalactic@gmail.com>
+Author: Galactic Dev
+Section: Tweaks
+Depends: 
+Filename: debs/com.galacticdev.bigytminiplayer_0.1_iphoneos-arm.deb
+Size: 4626
+MD5sum: 60b2db06fe0e15a21e1727364b864c9c
+SHA1: 7211184336471ab429ff42f13edadef91b44c352
+SHA256: 36d092f9a26e258aa964a09f9da9ecbcc64e86b7bb29c12a5dce24498b4c5205
