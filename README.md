@@ -1,2 +1,2 @@
 # GalacticDevRepo
-Cydia repository for my jailbreaktweaks
+Cydia repository for my jailbreak tweaks
