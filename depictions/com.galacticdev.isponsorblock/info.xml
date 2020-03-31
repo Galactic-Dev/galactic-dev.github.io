@@ -1,0 +1,21 @@
+<package>
+	<id>com.galacticdev.isponsorblock</id>
+	<name>iSponsorBlock</name>
+	<version>0.1</version>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Skip annoying sponsorships in YouTube videos with this tweak.</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Original SponsorBlock browser extension</name>
+			<url>https://github.com/ajayyy/SponsorBlock#sponsorblock</url>
+		</link>
+	</links>
+</package>
