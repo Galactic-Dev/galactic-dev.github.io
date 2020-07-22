@@ -1,0 +1,40 @@
+<package>
+	<id>com.galacticdev.bigytminiplayer</id>
+	<name>BigYTMiniPlayer</name>
+	<version>0.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Makes the miniplayer inside the YouTube app bigger on your phone</shortDescription>
+	<screenshots>
+	<screenshot>
+		<description>This is what the tweak looks like in action.</description>
+		<image>bigytminiplayer.jpg</image>
+	</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Reddit</name>
+			<url>https://www.reddit.com/user/Galactic_Dev</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+    <link>
+      <name>Github</name>
+      <url>https://github.com/Galactic-Dev</url>
+      <iconclass>fa fa-github</iconclass>
+    </link>
+    <link>
+      <name>Twitter</name>
+      <url>https://twitter.com/dev_galactic</url>
+      <iconclass>fa fa-twitter</iconclass>
+    </link>
+	</links>
+</package>
