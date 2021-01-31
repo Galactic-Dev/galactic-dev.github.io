@@ -1,7 +1,7 @@
 <package>
 	<id>com.galacticdev.isponsorblock</id>
 	<name>iSponsorBlock</name>
-	<version>1.0-4</version>
+	<version>1.0-5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>12.0</miniOS>
@@ -15,7 +15,7 @@
 		<description>This tweak is powered by the SponsorBlock API found here: https://sponsor.ajay.app/</description>
 	</descriptionlist>
 	<changelog>
-		<change>Fixed visual bugs. See full changelog for more info</change>
+		<change>Bug fixes. Added toast when voting on segment</change>
 	</changelog>
 	<links>
 		<link>
