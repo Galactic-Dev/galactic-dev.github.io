@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0-6</version>
+		<change>Added support for newer YouTube versions. Fix string formatting issues</change>
+	</changes>
+	<changes>
 		<version>1.0-5</version>
 		<change>Bug fixes. Added toast when voting on segment</change>
 	</changes>
