@@ -1,0 +1,398 @@
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Architecture: iphoneos-arm
+Description: SponsorBlock port for iOS
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Version: 1.0-4
+Installed-Size: 572
+Filename: debs//com.galacticdev.isponsorblock_1.0-4_iphoneos-arm.deb
+MD5sum: 8037ca46f77d05e90c0a78a4f54b2911
+SHA1: 22e747e9fb85cef7eddd7febdf8a53749313aa12
+SHA256: 7b124b2df422f13b745ae24e8d03be59b1316bf015667b537f25d0ce7d6cce58
+Size: 125104
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.notfinical
+Name: NotFinical
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 1.0.1
+Installed-Size: 280
+Filename: debs//com.galacticdev.notfinical_1.0.1_iphoneos-arm.deb
+MD5sum: 8f1e220ec61c68fd96149197e19ccc1f
+SHA1: 774c8d3c988a5cd56317940597da2a80ec3dacb7
+SHA256: 8108008e25f847b56b79eca783ce42e6e1c38199ef21e2aba5988de535df40af
+Size: 11220
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.notfinical
+
+Package: com.galacticdev.notfinical
+Name: NotFinical
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dismiss the lockscreen music player with a swipe! 
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 1.0.1-1
+Installed-Size: 248
+Filename: debs//com.galacticdev.notfinical_1.0.1-1_iphoneos-arm.deb
+MD5sum: 0cd888a856ee95dfb63f76d5726973a7
+SHA1: 18208a3ecabd3b5d7556a909d54cc587175413e6
+SHA256: 7715151e1ec304e0418aa82c58fbd489fc2c89bc782cf37a9c257503d3d2eae8
+Size: 10846
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.notfinical
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Architecture: iphoneos-arm
+Description: SponsorBlock port for iOS
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Version: 1.0
+Installed-Size: 556
+Filename: debs//com.galacticdev.isponsorblock_1.0_iphoneos-arm.deb
+MD5sum: cad22602028e212325d9af1ef2e96557
+SHA1: 72056c1ca7b2dca4b73559ea8d33afa115471275
+SHA256: b3d3e084167c1d64f26bfd0fb375011d7b8a90efa79d0033467fd9a625899c85
+Size: 119512
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.notfinical
+Name: NotFinical
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 248
+Filename: debs//com.galacticdev.notfinical_0.0.1_iphoneos-arm.deb
+MD5sum: 0247467d844bcd822f7de88324b25add
+SHA1: c7cad33f0841240a23a8f2a5ff899fbfb7396852
+SHA256: 0354c73f432d3d810f26863f07f74d7134f825545d2e07f091b07cc0fbcd5105
+Size: 9680
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.notfinical
+
+Package: com.galacticdev.yulkari
+Name: Yulkari
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 280
+Filename: debs//com.galacticdev.yulkari_0.0.1_iphoneos-arm.deb
+MD5sum: 7319bdef7d095478fdd62d7197ed7614
+SHA1: c38dcc83268783f06408c6bdc829a91b73210f9c
+SHA256: fce215764abfc6d1a041118bea8e80c64ba83d99333b91529aa9420f18ac2379
+Size: 7092
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.yulkari
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Architecture: iphoneos-arm
+Description: SponsorBlock port for iOS
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Version: 1.0-5
+Installed-Size: 588
+Filename: debs//com.galacticdev.isponsorblock_1.0-5_iphoneos-arm.deb
+MD5sum: 028a2c6da1fff2e2a5093b60187b1830
+SHA1: 08be8bf9585b24539ea8231061f65fd37c27ecfd
+SHA256: c101cd2f6eb96fd565040ae779c89b2989ecf8f1fc7d3c24761419e857d6406c
+Size: 124002
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 264
+Filename: debs//com.galacticdev.isponsorblock_0.0.1_iphoneos-arm.deb
+MD5sum: 1bd22dfa74153a086e51a924f023f2aa
+SHA1: 8555f26379286debb30d0ac01287ee63be3594b9
+SHA256: e57bedad412409586791eedb2abc29925c9914b809361e522aff775755adf335
+Size: 25110
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.notfinical
+Name: NotFinical
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dismiss lock screen music player with a swipe! 
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.0.1-1
+Installed-Size: 248
+Filename: debs//com.galacticdev.notfinical_0.0.1-1_iphoneos-arm.deb
+MD5sum: 509465c4fd78b18e38fa5504769cfadd
+SHA1: c8d4fd1553d675ac3425dbb0ee4bc5c3cb93d272
+SHA256: 5da59539e617f7ace4d4d05f2696d2b794aed130e951f70e700fd394fd73bef3
+Size: 10024
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.notfinical
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Architecture: iphoneos-arm
+Description: SponsorBlock port for iOS
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Version: 1.0-1
+Installed-Size: 556
+Filename: debs//com.galacticdev.isponsorblock_1.0-1_iphoneos-arm.deb
+MD5sum: 8b378794bd7b6ee1feebb38c20bf6e2f
+SHA1: e53151c822cdd1bf052f1c84731f208ef139b579
+SHA256: 154490d52fb85d96c6264ddf8ace158cae9f8e380f574ddc40b4d392a523d788
+Size: 119258
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.streaknotifications
+Name: StreakNotifications
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Show how long until snapchat streak expires when you get a snapchat notification.
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.1
+Installed-Size: 200
+Filename: debs//com.galacticdev.streaknotifications_0.1_iphoneos-arm.deb
+MD5sum: 67e0b7f357f87b5ccab0231b1cf6b485
+SHA1: 4791357f03a6240693b40a7a8e3b70123cebc0d3
+SHA256: c7adf1e83ad54e3ab3fed8c82592669f944095af710573183aa92e80cdeb2395
+Size: 7418
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.streaknotifications
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Architecture: iphoneos-arm
+Description: SponsorBlock port for iOS
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Version: 1.0-6
+Installed-Size: 588
+Filename: debs//com.galacticdev.isponsorblock_1.0-6_iphoneos-arm.deb
+MD5sum: a2f312ac48f9ee052e322ce3413a448e
+SHA1: 31fb258f3b3d8aceae06ea9133a3f6786a584cd6
+SHA256: 73970b608a0216f48e43c9306e653b54fa845474e584324a1a31a99e03a552ca
+Size: 124886
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 264
+Filename: debs//com.galacticdev.isponsorblock_0.0.2_iphoneos-arm.deb
+MD5sum: b4cbb7650f7e1e478b22ac624fc2e94b
+SHA1: 8f7ce680d0dc46eb425bf6b3757051aa1d76fd62
+SHA256: d29dbf789c396e5666b61b951e826ef6ace60e11831d987ea66bed94717fe8f1
+Size: 25246
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.streaknotifications
+Name: StreakNotifications
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Show how long until snapchat streak expires when you get a snapchat notification.
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.2-1
+Installed-Size: 444
+Filename: debs//com.galacticdev.streaknotifications_0.2-1_iphoneos-arm.deb
+MD5sum: 0f372a314e355689690c4d60c94a5f74
+SHA1: e0fc7e123667723643ec7e0c5d2e99f7bdbae63d
+SHA256: 8e232b3a821460f27fef8710625a3095a8e7580b68109acba5078e28889f6018
+Size: 12814
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.streaknotifications
+
+Package: com.galacticdev.yulkari
+Name: Yulkari
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dismiss the in app safari view when opening web page in safari from app. 
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.0.2
+Installed-Size: 344
+Filename: debs//com.galacticdev.yulkari_0.0.2_iphoneos-arm.deb
+MD5sum: 5990dea649412cfe7930b89514c733a2
+SHA1: 03c0aa40a18752d3b4267baba03c7f396a4aca1f
+SHA256: 3781d79c0c0c70fed3d4a0bbe51f288aa381639e56cd0a1292e47e54abd46208
+Size: 8334
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.yulkari
+
+Package: com.galacticdev.streaknotifications
+Name: StreakNotifications
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Show how long until snapchat streak expires when you get a snapchat notification.
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.2
+Installed-Size: 408
+Filename: debs//com.galacticdev.streaknotifications_0.2_iphoneos-arm.deb
+MD5sum: ae428630e20dc58ed0f866dd84ab12a7
+SHA1: 812d481ef498f59cc63757cd2bb517fffb014046
+SHA256: 2015d5cb87654ea99b75d28c65699fc62b3eaa7059585c01b4982df1d24ea23c
+Size: 12144
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.streaknotifications
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Architecture: iphoneos-arm
+Description: SponsorBlock port for iOS
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Version: 1.0-2
+Installed-Size: 588
+Filename: debs//com.galacticdev.isponsorblock_1.0-2_iphoneos-arm.deb
+MD5sum: 518b843e3fdca519c2f51e77525819f8
+SHA1: c3ee48b648457c591e3eccf09cf082db251d5000
+SHA256: 08f9aed24feef9b21ee5adeb80c6a52b3258f2ad5b6fbd507f1f66cc7a017492
+Size: 123670
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Skip annoying sponorships in the native YouTube app using SponsorBlock API. 
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.0.3
+Installed-Size: 264
+Filename: debs//com.galacticdev.isponsorblock_0.0.3_iphoneos-arm.deb
+MD5sum: d696227fd82fd3e7c27bc30655c12beb
+SHA1: 5de847423c1b4f564a69a6de86fdb1151b47a289
+SHA256: 83ce23178a359b0da2ec22a837976334ffe34485f0e378b1db66588236fc6dc0
+Size: 26540
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.yulkari
+Name: Yulkari
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dismiss the in app safari view when opening web page in safari from app. 
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.0.1.2
+Installed-Size: 312
+Filename: debs//com.galacticdev.yulkari_0.0.1.2_iphoneos-arm.deb
+MD5sum: 93c78bb27ab31ad0072f05c5cfbed9fb
+SHA1: 399ea2bef79645fcc782f644aaf87570612f3b23
+SHA256: 5d87ea5ae6f13f12da06427533c26ffee184808f31a76df6872909b25f71e27d
+Size: 7234
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.yulkari
+
+Package: com.galacticdev.notfinical
+Name: NotFinical
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Dismiss the lockscreen music player with a swipe! 
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 1.0.2
+Installed-Size: 280
+Filename: debs//com.galacticdev.notfinical_1.0.2_iphoneos-arm.deb
+MD5sum: 2b4296f6452cc14a951092f5393ca576
+SHA1: 87078efe4f60023285965e61c1aa0be5e14ff70b
+SHA256: 2134f137cfe289bfbd694a398c4207d070a2c3ca2ea7f51736ec241436fb062e
+Size: 12084
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.notfinical
+
+Package: com.galacticdev.streaknotifications
+Name: StreakNotifications
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Show how long until snapchat streak expires when you get a snapchat notification.
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.3
+Installed-Size: 444
+Filename: debs//com.galacticdev.streaknotifications_0.3_iphoneos-arm.deb
+MD5sum: 54842c9225fbe66e7ec4b1d29582734f
+SHA1: 9b0d2f453ee7d2d02bf5651bcafd76eecc0dec34
+SHA256: 90fb31dc57730a8d95f83403221d33976f716e597b48db39e1493ba464a48895
+Size: 12758
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.streaknotifications
+
+Package: com.galacticdev.isponsorblock
+Name: iSponsorBlock
+Architecture: iphoneos-arm
+Description: SponsorBlock port for iOS
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Version: 1.0-3
+Installed-Size: 588
+Filename: debs//com.galacticdev.isponsorblock_1.0-3_iphoneos-arm.deb
+MD5sum: d66190ef32c34c4726ae0d0d6c1ccf76
+SHA1: c9a426b2459948e497a97bada7e3cf9d439d68db
+SHA256: 034e08feb50efe6a98371bfafc00133880bd4f2cf13f7eb0e080746424a9522f
+Size: 124106
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
+Package: com.galacticdev.bigytminiplayer
+Name: BigYTMiniPlayer
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Galactic Dev
+Author: Galactic Dev
+Section: Tweaks
+Version: 0.1
+Installed-Size: 200
+Filename: debs//com.galacticdev.bigytminiplayer_0.1_iphoneos-arm.deb
+MD5sum: 60b2db06fe0e15a21e1727364b864c9c
+SHA1: 7211184336471ab429ff42f13edadef91b44c352
+SHA256: 36d092f9a26e258aa964a09f9da9ecbcc64e86b7bb29c12a5dce24498b4c5205
+Size: 4626
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.bigytminiplayer
+

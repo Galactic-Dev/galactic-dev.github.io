@@ -36,7 +36,11 @@ if __name__ == "__main__":
         filesize = "Size: " + str(sums["size"])
         filename = "Filename: " + dir + file
         control = open("./tmp/control", "r").read()
-        output = control + filename + "\n" + md5 + sha1 + sha256 + filesize + "\n" + "\n"
+
+        bundleid = control.partition('\n')[0].replace('Package: ', '')
+        depiction = "Depiction: https://galactic-dev.github.io/depictions/?p=" + bundleid
+
+        output = control + filename + "\n" + md5 + sha1 + sha256 + filesize + '\n' + depiction + "\n" + "\n"
         print(sha256, md5, sha1, filesize)
         f = open("./Packages", "a")
         f.write(output)
