@@ -11,15 +11,16 @@
 		<version>1.0-4</version>
 		<change>Fixed visual bugs</change>
 	</changes>
-	<change>
+	<changes>
 		<version>1.0-3</version>
 		<change>Fixed bug with edit start/end time options</change>
-	</change
+	</changes>
 	<changes>
 		<version>1.0-2</version>
 		<change>Fixed settings button not showing in light mode</change>
    		<change>Added whitelist channel option</change>
 		<change>Fixed edit start time and edit end time options from not doing anything</change>
+	</changes>
 	<changes>
 		<version>1.0-1</version>
 		<change>Complete Rewrite. Tons of new features. For more info see the Reddit post on r/jailbreak</change>
