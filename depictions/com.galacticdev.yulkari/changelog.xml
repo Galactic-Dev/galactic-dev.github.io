@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>0.0.3</version>	
+		<change>Added UIKit filter, so Yulkari only injects into applications</change>
+	</changes>
+	<changes>
 		<version>0.0.2</version>
 		<change>Fixed support in certains apps such as twitter</change>
 	</changes>
