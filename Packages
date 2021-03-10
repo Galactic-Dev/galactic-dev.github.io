@@ -413,3 +413,21 @@ Author: Galactic Dev
 Name: Yulkari
 Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.yulkari
 
+Package: com.galacticdev.isponsorblock
+Version: 1.0-7
+Architecture: iphoneos-arm
+Maintainer: Galactic Dev
+Installed-Size: 588
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: /Users/davidbrett/galactic-dev.github.io/debs/com.galacticdev.isponsorblock_1.0-7_iphoneos-arm.deb
+Size: 125086
+MD5sum: d3b447df422b6553ae5da705d0f56b9f
+SHA1: 86604f0d31c24f28a2ad5c2c2310d482bd8feb84
+SHA256: 05002b5baa1f79fa798d8441bfef2e1713babfcf4758c1fb6211f3118462fd94
+Section: Tweaks
+Description: SponsorBlock port for iOS
+Author: Galactic Dev
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Name: iSponsorBlock
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
+
