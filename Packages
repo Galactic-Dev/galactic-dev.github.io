@@ -445,6 +445,6 @@ SHA256: db4d5979c08c53d100ff3a047bef9af89af9acb2269b943b756a1036f2d8a594
 Section: Tweaks
 Description: iOS 14 style PiP on iOS 13
 Author: Galactic Dev
-Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.14PiP
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.14pip
 Name: 14PiP
 
