@@ -431,3 +431,20 @@ Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/
 Name: iSponsorBlock
 Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
 
+Package: com.galacticdev.14pip
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Galactic Dev
+Installed-Size: 460
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.galacticdev.14pip_1.0_iphoneos-arm.deb
+Size: 45062
+MD5sum: 583ca06cce93c1540abd6a7ec65422a2
+SHA1: a727ed2fc87d7d69efe6157081a23a1d033f7009
+SHA256: db4d5979c08c53d100ff3a047bef9af89af9acb2269b943b756a1036f2d8a594
+Section: Tweaks
+Description: iOS 14 style PiP on iOS 13
+Author: Galactic Dev
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.14PiP
+Name: 14PiP
+
