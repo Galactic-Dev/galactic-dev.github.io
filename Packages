@@ -463,5 +463,6 @@ Section: Tweaks
 Description: SponsorBlock port for iOS
 Author: Galactic Dev
 Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.isponsorblock
 Name: iSponsorBlock
 
