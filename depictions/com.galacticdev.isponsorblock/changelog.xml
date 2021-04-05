@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0-8</version>
+		<change>Fixed issues with manual skip. Should also of fixed issue with skip loops while casting to a Smart TV.</change>
+	</changes>
+	<changes>
 		<version>1.0-7</version>
 		<change>Added support for older YouTube versions. Fixed some bugs</change>
 	</changes>

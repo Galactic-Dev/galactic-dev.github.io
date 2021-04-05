@@ -448,3 +448,20 @@ Author: Galactic Dev
 Depiction: https://galactic-dev.github.io/depictions/?p=com.galacticdev.14pip
 Name: 14PiP
 
+Package: com.galacticdev.isponsorblock
+Version: 1.0-8
+Architecture: iphoneos-arm
+Maintainer: Galactic Dev
+Installed-Size: 588
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.alderis (>= 1.1)
+Filename: debs/com.galacticdev.isponsorblock_1.0-8_iphoneos-arm.deb
+Size: 125768
+MD5sum: 9676d61f6bc73f83eac65de65c3cc814
+SHA1: 07df6374f0898b1ed9566c1b967978c7dbe8598c
+SHA256: cc29f86ee07d4242cc0cae602a2223c74564454cf2d649eca86ae555ea4c6df2
+Section: Tweaks
+Description: SponsorBlock port for iOS
+Author: Galactic Dev
+Icon: https://raw.githubusercontent.com/ajayyy/SponsorBlock/master/public/icons/LogoSponsorBlocker64px.png
+Name: iSponsorBlock
+
